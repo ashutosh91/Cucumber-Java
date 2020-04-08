@@ -1,7 +1,6 @@
 /* 
- *  This runner class is require to run the Parallel Execution, 
- *  but still we can't execute the test cases.
- *  The reason behind that one is, we need to add the plugin for Surefire in the 'pom.xml'.
+ *  This runner class is require to run the Parallel Execution,
+ *  We need to add the plugin for Surefire in the 'pom.xml' to make it run.
  */
 
 package com.Runner;
